@@ -58,7 +58,7 @@ button:hover{
     margin-top: 3rem;
   }
 }
-@media(max-width:1024px){
+/* @media(min-width:1024px){
   .sub{
     width: 50%;
     height: 80vh;
@@ -69,4 +69,4 @@ button:hover{
   .sec{
     margin-top: 3rem;
   }
-}
+} */
